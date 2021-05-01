@@ -1,0 +1,18 @@
+h1{
+    color: rgba(255, 0, 157, 0.877);
+    background: rgba(0, 242, 255, 0.639);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    /* background-color: rgb(117, 26, 255); */
+    color: rgb(255, 25, 167);
+    font-size: 22px;
+    font-family: 'Zilla Slab', serif;
+    background-image: url("pexels-irina-iriser-1408221.jpg");
+    height: 800px;
+    background-size: 100%;
+}
